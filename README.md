@@ -3,6 +3,9 @@ Ignite ReactJS
 
 ### Execução
 Para executar o projeto deve baixar o repositório e usar o comando yarn para baixar as dependências
+- no visual studio code, para rodar o projeto yarn dev.
+- para rodar os testes yarn test
+- no navegador usar a porta localhost:8080 
 
 ### Atividades desenvolvidas
 - o primeiro desafio foi um TO.DO, 
