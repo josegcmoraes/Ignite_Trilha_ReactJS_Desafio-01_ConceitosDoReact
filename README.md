@@ -16,5 +16,5 @@ Para executar o projeto deve baixar o repositório e usar o comando yarn para ba
 
 
 ### Tela de execução
-<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact/blob/main/execucao.png" width="640" height="400">
+<img src="https://github.com/josegcmoraes/Ignite_Trilha_ReactJS_Desafio-01_ConceitosDoReact/blob/main/execucao.png" width="640" height="520">
 
