@@ -10,14 +10,11 @@ Para executar o projeto deve baixar o repositório e usar o comando yarn para ba
 ### Atividades desenvolvidas
 - o primeiro desafio foi um TO.DO
 - a estrutura geral veio no template
-- foi desenvolvido a manipulação de estados no ReactJS - Criar, Deletar pelo ID, no TO.DO  
-    App Page should be able to add a task
-    App Page should not be able to add a task with a empty title
-    App Page should be able to remove a task
-    App Page should be able to check a task
-- Criar uma nova tarefa
-- Remover uma tarefa utilizando o ID
-- Marcar e Desmarcar uma tarefa como concluída
+- foi desenvolvido a manipulação de estados no ReactJS para o TO.DO- Criar, Deletar pelo ID, marcar/desmarcar  
+    1. App Page should be able to add a task
+    2. App Page should not be able to add a task with a empty title
+    3. App Page should be able to remove a task
+    4. App Page should be able to check a task
 
 ##### Descrição do desafio
 - Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS. Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
